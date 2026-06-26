@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.first-button,.second-button{
+    font-size: 28px;
+    font-family:'Helvetica', 'times roman', sans-serif;
+}
+.first-button{
+    background-color: black;
+    color: azure;
+}
+.second-button{
+    background-color: rgb(235, 210, 69);
+    
+}
